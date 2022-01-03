@@ -215,6 +215,7 @@ center img {
   border-radius: 16px;
   width: 90%;
   margin: 0 auto;
+  padding: 20px;
 }
 .wid-main {
   width: 70%;
@@ -283,7 +284,7 @@ iframe {
   margin-top: -2rem;
   width: 80%;
   margin-left: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 12rem;
   margin-left: 10rem;
 }
 
@@ -801,4 +802,8 @@ html {
 iframe {
   border-radius: 12px;
   margin-top: 1rem;
+}
+mark { 
+  background-color: green;
+  color: white;
 }
